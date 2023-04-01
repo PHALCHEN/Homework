@@ -1,0 +1,222 @@
+#hold-page{
+    margin: 0px;
+    padding: 0px;
+    background-color: purple;
+}
+#header{
+    background-color: #1e1e55;
+    width: 1081px;
+    height: 248px;
+    margin: 0px auto;
+}
+.a{
+    width: 16px;
+    background-color: orange;
+    height: 187px;
+    margin: 0px 5px;
+      margin-top: 0px;
+    float: left;
+    margin-top: 20px;
+}
+.picture{
+    width: 176px;
+    height: 187px;
+    background: yellow;
+    margin: 0px 5px;
+      margin-top: 0px;
+    margin-top: 0px;
+    float: left;
+    margin-top: 20px;
+}
+.name{
+    width: 833px;
+    height: 187px;
+    margin-left: 251px;
+    background-color:#12126a;
+    margin: 0px 5px;
+    margin-top: 0px;
+    margin-top: 0px;
+    float: left;
+    margin-top: 20px;
+}
+.b{
+    width: 309px;
+    height: 41px;
+    background-color: rgb(255, 166, 0);
+    margin: 0px 5px;
+      margin-top: 0px;
+      margin-left: 5px;
+    margin-top: 0px;
+    margin-top: 0px;
+    float: left;
+    margin-top: -7px;
+    margin-left: 221px;
+}
+.name h1{
+    font-size: 44px;
+    margin-left: 221px;
+}
+.b h3{
+    letter-spacing: 6px;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+}
+#body{
+    width: 1081px;
+    height: 650px;
+    margin: 0px auto;
+}
+#left-side{
+    width: 419px;
+    height: 650px;
+    float: left;
+    background-color: orange;
+}
+.letter{
+    margin-left: 100px;
+    line-height: 20px;
+}
+.letter ul {
+    margin-left: -4px;
+    list-style-type: none;
+    margin-top: -95px;
+    line-height: 31px;
+}
+.square {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-top: 17px;
+}
+.idk{
+    margin-top: -127px;
+}
+#side-bar{
+    width: 662px;
+    height: 650px;
+    float: right;
+    background-color: white
+}
+.c{
+    width: 40px;
+    height: 5px;
+    background-color: #1e1e55;
+    margin-top: -27px;
+    margin-left: 100px;
+}
+.c p{
+    margin-left: 0px;
+    margin-right: 0px;
+    position: absolute;
+    left: 814px;
+    top: 291px;
+    letter-spacing: 1px;
+}
+.d p{
+    margin-left: 0px;
+    margin-right: 0px;
+    position: absolute;
+    left: 814px;
+    top: 379px;
+    letter-spacing: 1px;
+}
+.d{
+    width: 40px;
+    height: 5px;
+    background-color: #1e1e55;
+    margin-top: -27px;
+    margin-left: 100px; 
+}
+.bored{
+    margin-top: 67px;
+}
+.att{
+    width: 15px;
+    height: 15px;
+    background-color:#1e1e55;
+    margin-bottom: 10px;
+    margin-top: 38px;
+}
+.g{
+    margin-top: 50px;
+}
+.h{
+    margin-top: 150px;
+}
+.q{
+    margin-top: -261px;
+}
+.o{
+    margin-top: 34px;
+}
+.m{
+    margin-top: 39px;
+}
+.bored{
+    line-height: 10px;
+}
+#fotter{
+    width: 1081px;
+    height: 248px;
+    margin: 0px auto;
+}
+.kk{
+    width: 419px;
+    height: 148px;
+    float: left;
+    background-color: #1e1e55;
+}
+.jj{
+    width: 662px;
+    height: 148px;
+    float: right;
+    background-color: orange
+}
+#footer{
+    width: 1081px;
+    height: 148px;
+    margin: 0px auto;
+}
+.kk ul{
+    list-style-type: none;
+    line-height: 35px;
+    margin-left: 60px;
+}
+.circle{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    margin: 0px 0px 10px 10px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    display: inline-block;
+    float: right;
+    margin-top: 27px;
+    margin-left: -44px;
+    margin-right: 58px;
+    border-radius: 7.5px;
+}
+.z{
+    float: right;
+    margin-top: -13px;
+    margin-left: 166px;
+}
+.e{
+    position: absolute;
+}
+.l{
+    float: right;
+    margin-top: -13px;
+    margin-left: 166px;
+}
+.f{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin-left: 235px;
+    margin-top: 42px;
+}
